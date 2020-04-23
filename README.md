@@ -7,3 +7,10 @@ will result in the most flips from red to blue.
 
 
 Other Contributors: Donald House, Michael Ringham, Anantha Natarajan
+I created the computersTurn() function that was the decision making part
+of the code for blue's turn. I also created the option for the user to 
+play the computer or to have a two player version. Lastly,
+I created a function to print out the score and winner of the game.
+
+Anantha helped implement the glutTimerFunc that made the blue
+piece wait before appearing after the red had its turn.
