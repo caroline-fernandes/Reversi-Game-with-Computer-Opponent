@@ -5,6 +5,7 @@ a blue piece can make with every possible position
 a blue can be placed and then choses a position that 
 will result in the most flips from red to blue. 
 
+*This started as an assigment, we were given some starter code.
 
 Other Contributors: Donald House, Michael Ringham, Anantha Natarajan
 I created the computersTurn() function that was the decision making part
