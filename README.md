@@ -8,6 +8,7 @@ will result in the most flips from red to blue.
 *This started as an assigment, we were given some starter code.
 
 Other Contributors: Donald House, Michael Ringham, Anantha Natarajan.
+(They were all instructors/TAs for the class I was given the assignment in.)
 
 I created the computersTurn() function that was the decision making part
 of the code for blue's turn. I also created the option for the user to 
