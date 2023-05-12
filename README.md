@@ -1,4 +1,4 @@
-# Reversi-Game-with-AI-Opponent
+# Reversi-Game-with-Computer-Opponent
 
 C++/OpenGL program calculates the number of flips
 a blue piece can make with every possible position 
